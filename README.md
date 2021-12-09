@@ -1,4 +1,5 @@
 # vuerouter
+Anlatımı için: https://ismailgultekin.com/vuejs-3-routing-islemleri-ve-router-kullanimi
 
 ## Project setup
 ```
